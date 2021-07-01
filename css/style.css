@@ -1,0 +1,138 @@
+/* Brand */
+@import url('https://fonts.googleapis.com/css2?family=Otomanopee+One&display=swap');
+
+
+* {
+    color: black;
+}
+
+section {
+    padding: 10rem 0;
+}
+
+/* Brand */
+.nbrand h2 {
+    font-family: 'Otomanopee One', sans-serif;
+}
+
+
+/* Header */
+.header h1 {
+    font-size: 72px;
+}
+
+.header p {
+    margin-top: 2rem;
+}
+
+.header a {
+    display: inline-block;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    background-color: grey;
+    text-decoration: none;
+    color: white;
+    padding: 16px 30px;
+    transition: .3s;
+    border-radius: 32px;
+    font-size: 18px;
+}
+
+.header a:hover {
+    background-color: #757575;
+}
+
+.header img {
+    width: 100%;
+}
+
+
+/* Keunggulan */
+.keunggulan .row {
+    text-align: center;
+}
+
+.keunggulan .coll {
+    margin-bottom: 4rem;
+}
+
+.bi {
+    margin-bottom: 8px;
+}
+
+
+/* Services */
+.services .serv {
+    margin-bottom: 4rem;
+}
+
+.services .scol {
+    margin-bottom: 2rem;
+}
+
+.services a {
+    display: inline-block;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    background-color: grey;
+    text-decoration: none;
+    color: white;
+    padding: 16px 30px;
+    transition: .3s;
+    border-radius: 32px;
+    font-size: 18px;
+}
+
+.services a:hover {
+    background-color: #757575;
+}
+
+
+/* Gallery */
+.gallery .gall {
+    margin-bottom: 4rem;
+}
+
+.gallery img {
+    margin-bottom: 2rem;
+}
+
+.gallery .img1 img {
+    width: 100%;
+}
+
+.gallery .rabt img {
+    width: 100%;
+    height: 86%;
+}
+
+
+/* Testimoni */
+.testimoni .testi {
+    margin-bottom: 4rem;
+}
+
+.testimoni .ttcol {
+    margin-bottom: 2rem;
+}
+
+/* Contact */
+.contact {
+    background-color: #666666;
+}
+
+.contact h1 {
+    color: white;
+}
+
+.contact h3 {
+    color: white;
+}
+
+.footer {
+    color: black;
+}
+
+.footer a {
+    color: black;
+}
