@@ -7,7 +7,7 @@
 }
 
 section {
-    padding: 10rem 0;
+    padding: 6rem 0;
 }
 
 /* Brand */
@@ -29,7 +29,7 @@ section {
     display: inline-block;
     margin-top: 2rem;
     margin-bottom: 2rem;
-    background-color: grey;
+    background-color: #579A79;
     text-decoration: none;
     color: white;
     padding: 16px 30px;
@@ -39,7 +39,7 @@ section {
 }
 
 .header a:hover {
-    background-color: #757575;
+    background-color: #44775d;
 }
 
 .header img {
@@ -74,7 +74,7 @@ section {
     display: inline-block;
     margin-top: 2rem;
     margin-bottom: 2rem;
-    background-color: grey;
+    background-color: #579A79;
     text-decoration: none;
     color: white;
     padding: 16px 30px;
@@ -84,7 +84,7 @@ section {
 }
 
 .services a:hover {
-    background-color: #757575;
+    background-color: #44775d;
 }
 
 
